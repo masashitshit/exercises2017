@@ -126,7 +126,7 @@ Pkg.clone("/PATH/TO/PackageName.jl")
 
 ### パッケージの作成方法
 
-* [Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709)
+* [Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709)
 * [Creating a new Package](https://docs.julialang.org/en/stable/manual/packages/#creating-a-new-package)
 
 1. パッケージの名前を決める．
@@ -154,8 +154,9 @@ Julia で `PkgDev.generate` というコマンドを使うと一連の操作を�
 
 ### `MyInterpolations.jl` ファイル
 
-冒頭に `module MyInterpolations`，末尾に `end` と書いておく．
-関数の定義はそれらの間に書く．
+* 冒頭に `module MyInterpolations`，末尾に `end` と書いておく．
+  関数の定義はそれらの間に書く．
+* 自分で定義した関数 (たとえば `my_lin_interp`) に対して，`export my_lin_interp` のように書いて export する．
 
 ### `lin_interp_demo.ipynb` ファイル
 
