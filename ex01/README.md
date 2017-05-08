@@ -167,6 +167,25 @@ Julia で `PkgDev.generate` というコマンドを使うと一連の操作を�
   このページにある簡単な例を実行したり，[この節](https://lectures.quantecon.org/jl/julia_libraries.html#interpolation)や[この節](https://lectures.quantecon.org/jl/optgrowth.html#fitted-value-iteration)の図を書いてみたり，いろいろデモを行ってみる
 * [昨年度の notebook リスト](https://github.com/OyamaZemi/exercises2016/blob/master/ex01/notebooks.md)
 
+### 自前パッケージのインストール方法
+
+初回は
+
+```jl
+Pkg.clone("/PATH/TO/PackageName.jl")
+```
+
+とする．
+ただし，"/PATH/TO/PackageName.jl" は適切に自分の環境に合わせる．
+
+ファイルを更新したら
+
+```jl
+Pkg.checkout("PackageName", "branch_name")
+```
+
+のようにする．
+
 
 ## ゼミ生の成果物
 
