@@ -145,7 +145,7 @@ Pkg.clone("/PATH/TO/PackageName.jl")
    * `REQUIRE` ファイル  
      とりあえず `julia 0.5` とだけ書いておく．
    * `src` フォルダ
-     * `MyInterpolations.jl` ファイル  
+     * `MyInterpolations.jl` ファイル (パッケージ名と同じ名前にする)  
        このファイルにコードを書く．
    * `test` フォルダ  
      とりあえず空にしておく．
