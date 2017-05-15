@@ -6,3 +6,4 @@
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/MyInterpolations.jl/blob/master/interpolation.ipynb?flush_cache=true)
 * [瀧川 英輝](http://nbviewer.jupyter.org/github/EikiTakigawa/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
+* [土屋 直之](http://nbviewer.jupyter.org/github/NTsuchiya0127/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
