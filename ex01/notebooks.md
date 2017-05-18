@@ -8,3 +8,4 @@
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
 * [土屋 直之](http://nbviewer.jupyter.org/github/NTsuchiya0127/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
 * [小住 真央](http://nbviewer.jupyter.org/github/m21kosumi/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb?flush_cache=true)
+* [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
