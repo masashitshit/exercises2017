@@ -9,5 +9,5 @@
 * [土屋 直之](http://nbviewer.jupyter.org/github/NTsuchiya0127/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
 * [小住 真央](http://nbviewer.jupyter.org/github/m21kosumi/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb?flush_cache=true)
 * [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
-* [佐々木　彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyinterpolationA.jl/blob/master/MyinterpolationA.ipynb)
+* [佐々木 彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyinterpolationA.jl/blob/master/MyinterpolationA.ipynb)
 * [優 昌晟](http://nbviewer.jupyter.org/github/4kizuki/AkizukiLinearInterpolation.jl/blob/master/lin_interp_demo.ipynb)
