@@ -13,3 +13,4 @@
 * [優 昌晟](http://nbviewer.jupyter.org/github/4kizuki/AkizukiLinearInterpolation.jl/blob/master/lin_interp_demo.ipynb)
 * [森 胤聡](http://nbviewer.jupyter.org/github/taneaki/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
 * [高橋　雅士](https://nbviewer.jupyter.org/github/masashitshit/Interpolations.jl/blob/master/Homework%201.5.ipynb)
+* [金　正賢](http://nbviewer.jupyter.org/github/ellenjunghyunkim/MyInterpolations.jl/blob/master/lin_interp_demo.ipynb)
