@@ -99,6 +99,27 @@ end
 というメソッドを書き足すだけで事足ります．
 
 
+## ランダム選好リスト
+
+ランダムに選好リストを生成する関数が必要であれば以下のようにして使ってください．
+
+1. `Pkg.clone("https://github.com/oyamad/Matching.jl")` で `Matching.jl` パッケージをインストールする (一回実行すればよい)．
+
+2. `using Matching` とする．
+
+3. 以下の関数をコピーペーストする (上のパッケージでは昨年度のデータ構造を使っているので，この関数で変換する)：
+
+   ```jl
+   function mat2vecs{T<:Integer}(prefs::Matrix{T})
+       return [prefs[1:findfirst(prefs[:, j], 0)-1, j] for j in 1:size(prefs, 2)]
+   end
+   ```
+
+4. `m_prefs, f_prefs = mat2vecs.(random_prefs(4, 3))` や `m_prefs, f_prefs = mat2vecs.(random_prefs(4, 3, allow_unmatched=false))` のように使う．
+
+* [`random_prefs` の使用例](http://nbviewer.jupyter.org/github/oyamad/Matching.jl/blob/2811aed218e1695fffb833554a9d30f449794680/examples/random_prefs.ipynb)
+
+
 ## ゼミ生の成果物
 
 * [Notebook リスト](notebooks.md)
