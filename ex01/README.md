@@ -191,66 +191,61 @@ Pkg.checkout("PackageName", "branch_name")
 
 テストを書いたので，それが通るようにコードを書きましょう．
 
-1.
-`grid` の要素が2つだけのケースに対してコードが書けた人は
-   
-* [runtests.jl (2点版)](https://github.com/OyamaZemi/exercises2017/blob/a3cb50dd1f8853ed1ab29e32a920e7b504fd2888/ex01/test/runtests.jl)
+1. `grid` の要素が2つだけのケースに対してコードが書けた人は
+    
+    * [runtests.jl (2点版)](https://github.com/OyamaZemi/exercises2017/blob/a3cb50dd1f8853ed1ab29e32a920e7b504fd2888/ex01/test/runtests.jl)
+    
+    を，一般のケースのコードが書けた人は
+    
+    * [runtests.jl (一般版)](https://github.com/OyamaZemi/exercises2017/blob/bab5de291f56a87e6b36b1f740065214f33bc8bc/ex01/test/runtests.jl)
+    
+    をそれぞれダウンロードし，`test` フォルダに入れる．
 
-を，一般のケースのコードが書けた人は
+2. パッケージ名は `MyInterpolations`，線形補間を作る関数は `my_lin_interp` になっているので，これらとは異なる名前をつけている人は，1行目の
+    
+    ```jl
+    using MyInterpolations
+    ```
+    
+    の `MyInterpolations` と，4行目の
+    
+    ```jl
+    const _lin_interp = my_lin_interp
+    ```
+    
+    の `my_lin_interp` を適切なものに変える．
 
-* [runtests.jl (一般版)](https://github.com/OyamaZemi/exercises2017/blob/bab5de291f56a87e6b36b1f740065214f33bc8bc/ex01/test/runtests.jl)
+3. 1 (および2) の変更を忘れずにコミットする．
 
-をそれぞれダウンロードし，`test` フォルダに入れる．
+4. インストールされているパッケージを
+    
+    ```jl
+    Pkg.checkout("MyInterpolations", "branch_name")
+    ```
+    
+    で更新する．
 
-2.
-パッケージ名は `MyInterpolations`，線形補間を作る関数は `my_lin_interp` になっているので，これらとは異なる名前をつけている人は，1行目の
-
-```jl
-using MyInterpolations
-```
-
-の `MyInterpolations` と，4行目の
-
-```jl
-const _lin_interp = my_lin_interp
-```
-
-の `my_lin_interp` を適切なものに変える．
-
-3.
-1 (および2) の変更を忘れずにコミットする．
-
-4.
-インストールされているパッケージをを
-
-```jl
-Pkg.checkout("MyInterpolations", "branch_name")
-```
-
-で更新する．
-
-5.
-Julia か Jupyter notebook で
-
-```jl
-Pkg.test("MyInterpolations")
-```
-
-としてテストを実行してみる．
-
-```jl
-Test Summary:                | Pass  Total
-  Testing linear interporation |    5      5
-```
-
-あるいは
-
-```jl
-Test Summary:                | Pass  Total
-  Testing linear interporation |   13     13
-```
-
-と出ればテストが通ったということです．
+5. Julia か Jupyter notebook で
+    
+    ```jl
+    Pkg.test("MyInterpolations")
+    ```
+    
+    としてテストを実行してみる．
+    
+    ```jl
+    Test Summary:                | Pass  Total
+      Testing linear interporation |    5      5
+    ```
+    
+    あるいは
+    
+    ```jl
+    Test Summary:                | Pass  Total
+      Testing linear interporation |   13     13
+    ```
+    
+    と出ればテストが通ったということです．
 
 
 ## ゼミ生の成果物
