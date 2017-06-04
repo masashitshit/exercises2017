@@ -109,4 +109,20 @@ end
             @test f_matches == d["f_matches_f_opt"]
         end
     end
+
+        @testset "one-to-one: Matrix" begin
+        for d in matchings_one_to_one
+            m_prefs, f_prefs = d["m_prefs"], d["f_prefs"]
+
+            # Male proposal
+            m_matches, f_matches = _deferred_acceptance(m_prefs, f_prefs)
+            @test m_matches == d["m_matches_m_opt"]
+            @test f_matches == d["f_matches_m_opt"]
+
+            # Female proposal
+            f_matches, m_matches = _deferred_acceptance(f_prefs, m_prefs)
+            @test m_matches == d["m_matches_f_opt"]
+            @test f_matches == d["f_matches_f_opt"]
+        end
+    end
 end
