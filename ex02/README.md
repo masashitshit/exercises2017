@@ -37,7 +37,7 @@
        冒頭に `module MyMatching` (パッケージ名と同じ名前にする)，末尾に `end` と書いておく．
        関数の定義をそれらの間に書いていく．
    * `test` フォルダ  
-     下の[テスト](#単体テスト)のセクションから自分に合ったファイルをダウンロードして入れる．
+     下の[テスト](#単体テスト)のセクションから自分に合ったファイルをダウンロードして入れる．
 
 ### 上級生向け注
 
@@ -171,7 +171,7 @@ end
     Pkg.checkout("MyMatching", "branch_name")
     ```
     
-    で更新する (Jupyter notebook を restart するのも忘れないように)．
+    で更新する (Jupyter notebook を restart するのも忘れないように)．
 
 5. Julia か Jupyter notebook で
     
@@ -179,7 +179,7 @@ end
     Pkg.test("MyMatching")
     ```
     
-    としてテストを実行してみる．
+    としてテストを実行してみる．
 
 
 ## ゼミ生の成果物
