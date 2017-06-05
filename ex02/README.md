@@ -30,7 +30,7 @@
 2. フォルダ構成は以下のようにする．
    (`README`, `.gitignore`, `LICENSE` に加えて)
 
-   * `REQUIRE` ファイル
+   * `REQUIRE` ファイル  
      とりあえず `julia 0.5` とだけ書いておく．
    * `src` フォルダ
      * `MyMatching.jl` ファイル (パッケージ名と同じ名前にする)
