@@ -8,6 +8,11 @@
   American Mathematical Monthly 69 (1962), 9-15
 
 なりをよく読んでコードを書いてみる．
+あるいは
+
+* [医師臨床研修マッチング協議会](https://www.jrmp.jp)の[マッチングアルゴリズム図解](https://www.jrmp.jp/distribution/matching.html)
+
+を見る (ただし，これは many-to-one)．
 
 * 今回は one-to-one (結婚のケース) でよいが，今後 many-to-one (college admission のケース)，many-to-many，student-project allocation に拡張していく．
 * 提出方法：GitHub のリポジトリにファイルをプッシュして，Jupyter notebook へのリンクを Notebook リストに加える．
