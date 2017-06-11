@@ -3,3 +3,4 @@
 
 * [課題1](ex01): 線形補間の関数を書いてみる
 * [課題2](ex02): 受入保留 (Deferred Acceptance) アルゴリズムを実装してみる
+* [課題3](ex03): `QuantEcon.DiscreteDP` のデモノートブックを Julia に翻訳してみる
