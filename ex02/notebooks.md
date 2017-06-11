@@ -6,3 +6,4 @@
 * [土屋 直之](http://nbviewer.jupyter.org/github/NTsuchiya0127/MyMatching.jl/blob/master/MyMatching_demo.ipynb)
 * [小住 真央](http://nbviewer.jupyter.org/github/m21kosumi/MyMatching.jl/blob/master/MyMatching_demo.ipynb)
 * [瀧川 英輝](http://nbviewer.jupyter.org/github/EikiTakigawa/MyMatching.jl/blob/master/deferred_acceptance_demo.ipynb)
+* [優 昌晟](http://nbviewer.jupyter.org/github/4kizuki/AkizukiMatching.jl/blob/master/demo.ipynb)
