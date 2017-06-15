@@ -10,3 +10,4 @@
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/DA.jl/blob/master/Demo2017.ipynb?flush_cache=true)
 * [金丸 博樹](https://nbviewer.jupyter.org/github/hirokikanamaru/MyMatching.jl/blob/master/MyMatching_demo.ipynb)
 * [金 正賢](http://nbviewer.jupyter.org/github/ellenjunghyunkim/MyMatching.jl/blob/master/my_deferred_acceptance%20demo%20edited.ipynb)
+* [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyMatching.jl/blob/master/DA_onetoone_manytoone_demo.ipynb)
