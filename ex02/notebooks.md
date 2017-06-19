@@ -14,3 +14,4 @@
 * [高橋 雅士](http://nbviewer.jupyter.org/github/masashitshit/MyMatching.jl/blob/master/Homework%202.ipynb)
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyMatching.jl/blob/master/src/Deferred_Acceptance_demo.ipynb)
 * [松下 旦](http://nbviewer.jupyter.org/github/myuuuuun/MatchingMarkets.jl/blob/master/demo/da_test2.ipynb)
+* [佐々木　彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyMatchingA.jl/blob/master/MyMatchingA.ipynb)
