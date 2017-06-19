@@ -12,3 +12,4 @@
 * [金 正賢](http://nbviewer.jupyter.org/github/ellenjunghyunkim/MyMatching.jl/blob/master/my_deferred_acceptance%20demo%20edited.ipynb)
 * [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyMatching.jl/blob/master/DA_onetoone_manytoone_demo.ipynb)
 * [高橋　雅士](http://nbviewer.jupyter.org/github/masashitshit/MyMatching.jl/blob/master/Homework%202.ipynb)
+* [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyMatching.jl/blob/master/src/Deferred_Acceptance_demo.ipynb)
