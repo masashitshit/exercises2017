@@ -26,7 +26,7 @@
 * `resp_prefs`: 長さ `n` の1次元配列  
   第 `j` 要素 `resp_prefs[j]` は長さ `m` 以下の1次元配列で，その中には大学 `j` が受け入れたい学生の番号が順番に並べてある．
 
-* `cap`: 長さ `n` の1次元配列  
+* `caps`: 長さ `n` の1次元配列  
   `caps[j]` は大学 `j` の受入上限
 
 (`prop_prefs`, `resp_prefs` はいままでの `m_prefs`, `f_prefs` と同じ．)
