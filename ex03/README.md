@@ -4,7 +4,7 @@
 [QuantEcon Open Notebook Archive](https://quantecon.org/notebooks)
 にある Python 版 `DiscreteDP` のデモ Jupyter notebook たち
 
-1. Miranda and Fackler Section 7.6.1: Mine Replacement (近々加えます)
+1. Miranda and Fackler Section 7.6.1: Mine Replacement
 2. Miranda and Fackler Section 7.6.2: Asset Replacement
 3. Miranda and Fackler Section 7.6.3: Asset Replacement with Maintenance
 4. Miranda and Fackler Section 7.6.4: Option Pricing
@@ -19,4 +19,4 @@
 * 締め切り：Aターム始まるまで
 * プルリクエストを出す前に相談しに来てください．
 
-(いずれもちょっと前に書いたので，改訂する予定．)
+~~(いずれもちょっと前に書いたので，改訂する予定．)~~ 済
