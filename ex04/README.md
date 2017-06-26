@@ -95,6 +95,52 @@ end
 * 最初から多対多で書いておいてもよい．
 
 
+## 単体テスト
+
+1. [runtests.jl](https://github.com/OyamaZemi/exercises2017/blob/80847d0169ad1c0ce445797d4243f5d04a7d0c01/ex02/test/runtests.jl)
+   をダウンロードし (`Raw` ボタンを押す)，`test` フォルダに入れる．
+
+2. パッケージ名は `MyMatching`，関数名は `my_deferred_acceptance` になっているので，これらとは異なる名前をつけている人は，1行目の
+    
+    ```jl
+    using MyMatching
+    ```
+    
+    の `MyMatching` と，4行目の
+
+    ```jl
+    const _deferred_acceptance = my_deferred_acceptance
+    ```
+    
+    の `my_deferred_acceptance` を適切なものに変える．
+
+3. 昨年度今年度両方対応コードを書いた人は，5行目の
+    
+    ```jl
+    const test_matrix = false
+    ```
+    
+    の `false` を `true` に変える．
+
+4. 1 (および2, 3) の変更を忘れずにコミットする．
+
+5. インストールされているパッケージを
+    
+    ```jl
+    Pkg.checkout("MyMatching", "branch_name")
+    ```
+    
+    で更新する (Jupyter notebook を restart するのも忘れないように)．
+
+6. Julia か Jupyter notebook で
+    
+    ```jl
+    Pkg.test("MyMatching")
+    ```
+    
+    としてテストを実行してみる．
+
+
 ## ゼミ生の成果物
 
 * [Notebook リスト](notebooks.md)
