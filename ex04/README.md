@@ -97,7 +97,7 @@ end
 
 ## 単体テスト
 
-1. [runtests.jl](https://github.com/OyamaZemi/exercises2017/blob/80847d0169ad1c0ce445797d4243f5d04a7d0c01/ex02/test/runtests.jl)
+1. [runtests.jl](https://github.com/OyamaZemi/exercises2017/blob/99d07c98c6e2f64a469b265c0cd56ea48bb70c58/ex02/test/runtests.jl)
    をダウンロードし (`Raw` ボタンを押す)，`test` フォルダに入れる．
 
 2. パッケージ名は `MyMatching`，関数名は `my_deferred_acceptance` になっているので，これらとは異なる名前をつけている人は，1行目の
