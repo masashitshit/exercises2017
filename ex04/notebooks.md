@@ -9,3 +9,4 @@
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyMatching.jl/blob/master/src/Deferred_Acceptance_Demo2.ipynb)
 * [金丸 博樹](http://nbviewer.jupyter.org/github/hirokikanamaru/MyMatching.jl/blob/master/ManytooneMatching.ipynb)
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/DA.jl/blob/master/Demo2017ex4.ipynb?flush_cache=true)
+* [森 胤聡](http://nbviewer.jupyter.org/github/taneaki/MyMatching.jl/blob/master/DA_manytoone_Demo.ipynb?flush_cache=true)
