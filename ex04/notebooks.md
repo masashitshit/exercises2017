@@ -11,3 +11,4 @@
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/DA.jl/blob/master/Demo2017ex4.ipynb?flush_cache=true)
 * [森 胤聡](http://nbviewer.jupyter.org/github/taneaki/MyMatching.jl/blob/master/DA_manytoone_Demo.ipynb?flush_cache=true)
 * [金 正賢](http://nbviewer.jupyter.org/github/ellenjunghyunkim/MyMatching.jl/blob/master/multi%20demo.ipynb)
+* [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyMatching.jl/blob/master/DA_many2one_0.6.0.ipynb?flush_cache=true)
