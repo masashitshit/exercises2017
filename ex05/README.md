@@ -33,6 +33,13 @@
   * A. E. Roth and E. Peranson (1999).
     "[The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design](https://www.aeaweb.org/articles?id=10.1257/aer.89.4.748),"
      American Economic Review 89, 748-780.
+  * A. Rees-Jones (2017).
+    "[Mistaken Play in the Deferred Acceptance Algorithm: Implications for Positive Assortative Matching](https://www.aeaweb.org/articles?id=10.1257/aer.p20171028),"
+    American Economic Review: Papers and Proceedings 107, 225-29.
+  * I. Ashlagi and A. Nikzad.
+    "[What matters in school choice tie-breaking? How competition guides design](https://web.stanford.edu/~iashlagi/papers/Ties-Competition.pdf)."
+  * I. Ashlagi, A. Nikzad, and A. Romm (2015).
+    "[Assigning more students to their top choices: A comparison of tie-breaking rules](https://web.stanford.edu/~iashlagi/papers/STBvsMTB.pdf)."
 
 
 ## ゼミ生の成果物
