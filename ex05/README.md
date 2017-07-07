@@ -28,6 +28,12 @@
     "[Two algorithms for the Student-Project Allocation problem](http://www.sciencedirect.com/science/article/pii/S1570866706000207),"
     Journal of Discrete Algorithms 5, 73-90.
 
+* 既存研究のシミュレーションを replicate してみる．
+
+  * A. E. Roth and E. Peranson (1999).
+    "[The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design](https://www.aeaweb.org/articles?id=10.1257/aer.89.4.748),"
+     American Economic Review 89, 748-780.
+
 
 ## ゼミ生の成果物
 
