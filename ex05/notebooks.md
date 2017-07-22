@@ -9,5 +9,5 @@
   A. Rees-Jones (2017). "Mistaken Play in the Deferred Acceptance Algorithm: Implications for Positive Assortative Matching"のレプリケーション
 * [優 昌晟](http://nbviewer.jupyter.org/github/4kizuki/AkizukiMatching.jl/blob/master/da-lie.ipynb)  
   受容側が嘘の情報を提出し、利益を得ることができるかどうかを検証。
-* [瀧川 英輝](http://nbviewer.jupyter.org/github/EikiTakigawa/MyMatching.jl/blob/master/Boston_mechanism%28demo%29.ipynb)  
+* [瀧川 英輝](http://nbviewer.jupyter.org/github/EikiTakigawa/MyMatching.jl/blob/master/Boston_mechanism%28demo%29.ipynb)  
   Boston mechanism と DAアルゴリズムの比較
