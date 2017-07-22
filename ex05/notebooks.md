@@ -12,3 +12,5 @@
   受容側が嘘の情報を提出し、利益を得ることができるかどうかを検証。
 * [瀧川 英輝](http://nbviewer.jupyter.org/github/EikiTakigawa/MyMatching.jl/blob/master/Boston_mechanism%28demo%29.ipynb)  
   Boston mechanism と DAアルゴリズムの比較
+* [佐々木　彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyMatchingA.jl/blob/master/src/test.2.ipynb)
+前回のコードをMany-to-Manyに拡張。
