@@ -14,3 +14,5 @@
   Boston mechanism と DAアルゴリズムの比較
 * [佐々木　彬弘](http://nbviewer.jupyter.org/github/akihirosasaki/MyMatchingA.jl/blob/master/src/test.2.ipynb)
 前回のコードをMany-to-Manyに拡張。
+* [高橋　雅士](http://nbviewer.jupyter.org/github/masashitshit/MyMatching.jl/blob/master/Homework%205.ipynb)
+　提案を入れ替えたときの結果も出せるように拡張。マッチングの変化を検証。
